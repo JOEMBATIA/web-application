@@ -1,0 +1,24 @@
+body{
+
+    margin-right: 20px;
+    background-size: cover;
+    background-image: url("images/bcd.jpg");  
+}
+.application{
+	text-decoration: overline;
+	color: snow;
+	text-align: center;
+	margin-top: 25px;
+	
+}
+.form{
+	text-align: center;
+	text-decoration-style: double;
+	color: lightseagreen;
+	font-family: verdana;
+	font-size: large;
+	background-color: lightgray;
+	margin-left: 350px;
+	margin-right: 350px;
+	
+}
